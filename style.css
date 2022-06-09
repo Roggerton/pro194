@@ -1,0 +1,25 @@
+body{
+    background-color: blue;
+    color: white(43, 13, 65, 0.995);
+    font-family: Serif;
+}
+
+.heading{
+width: 80%;
+font-size: 22px;
+}
+
+.name_of_objects{
+    color: yellowgreen;
+    font-size: 19px;
+}
+
+#camera{
+    border: 2px dotted whitesmoke;
+    width: 350px;
+    height: 350px;
+}
+
+#result_object_name, #result_object_accuracy{
+    font-family: 'Franklin Gothic Medium';
+}
